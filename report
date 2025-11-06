@@ -1,0 +1,5 @@
+1. importing the data of countries and their country code and region. So that the countru code acts as unique value when joining other data since the same countries may be referred by different names, United States or AMerica. Using ISO Alpha 3 and 2 code.
+2. getting country data from Github as CSV at https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes, last updated June 2024, made using data from United Nations.
+3. Removing and renaming relevant columns.
+4. Finding data missing, removing Antartica, adding data for Namibia and Taiwan. For this instance considering the State seperate from China.
+MAYBE CHANGE DATA TYPE OF FILES, INSTEAD OF CSV
