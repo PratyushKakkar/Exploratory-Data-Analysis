@@ -2,5 +2,9 @@
 2. getting country data from Github as CSV at https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes, last updated June 2024, made using data from United Nations.
 3. Removing and renaming relevant columns.
 4. Finding data missing, removing Antartica, adding data for Namibia and Taiwan. For this instance considering the State seperate from China.
+5. Changing dtattpes
 5. Picking 2023 data since it is a good balance between latest and data available
+6.
 MAYBE CHANGE DATA TYPE OF FILES, INSTEAD OF CSV
+https://ourworldindata.org/grapher/gender-inequality-index-from-the-human-development-report?tab=table&time=1990..2023&country=JOR~IDN~DEU~SWE
+https://ourworldindata.org/grapher/lgbt-legal-equality-index?country=IRN~AFG~RUS~EGY~PAK~PRY~CHN~VEN~ROU~PER~OWID_EUR&overlay=download-data
